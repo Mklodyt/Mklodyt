@@ -1,0 +1,9 @@
+start https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=24s
+
+timeout /t 10 
+
+start https://youtu.be/VcZlVQpga90?t=14
+
+timeout /t 5
+
+shutdown.exe 
